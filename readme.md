@@ -1,4 +1,4 @@
-# NOTE:  Since instacard order product file was too large even after zipping it, I had to upload it to one drive so, please download it first in your repo: https://cumber-my.sharepoint.com/:u:/r/personal/arc39456_ucumberlands_edu/Documents/order_products__prior.csv.zip?csf=1&web=1&e=mt8svz
+# **NOTE:  Since instacard order product file was too large even after zipping it, I had to upload it to one drive so, please download it first in your repo: https://cumber-my.sharepoint.com/:u:/r/personal/arc39456_ucumberlands_edu/Documents/order_products__prior.csv.zip?csf=1&web=1&e=mt8svz**
 
 # **MSCS 634 – Lab 6: Association Rule Mining with Apriori and FP-Growth**
 
